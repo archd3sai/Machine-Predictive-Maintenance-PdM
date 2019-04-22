@@ -1,4 +1,4 @@
-# Machine Predictive aintenance (PdM)
+# Machine Predictive Maintenance (PdM)
 
 Predictive maintenance techniques are employed to determine the condition of in-service equipment in order to estimate when maintenance should be performed. The main promise of predictive maintenance is to allow convenient scheduling of corrective maintenance, and to prevent unexpected equipment failures.
 
